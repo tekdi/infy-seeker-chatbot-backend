@@ -1,0 +1,71 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "What is farming ",
+        "content": "Farming is the act or process of working the ground, planting seeds, and growing edible plants. You can also describe raising animals for milk or meat as farming. Farming is a great way to describe the lifestyle and work of people whose jobs are in the agriculture industry."
+      },
+      {
+        "id": 2,
+        "title": "Videos Item",
+        "videos": [
+          
+          {
+            "title": "How to grow rice",
+            "url": "https://www.youtube.com/watch?v=qHIKRwYe3Cs",
+            "duration": "10:30"
+          }
+          
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Images Item",
+        "images": [
+          {
+            "title": "Image 1",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwXQaQjgy7Q_huVU6aBcCtaCJ-kBIzavuZQ&s"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Links Item",
+        "links": [
+          {
+            "title": "Link 1",
+            "url": "https://www.example.com/link1"
+          },
+          {
+            "title": "Link 2",
+            "url": "https://www.example.com/link2"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Mixed Content Item",
+        "content": "Vestibulum non leo nec justo bibendum viverra. Duis interdum mattis justo, nec egestas est condimentum vel.",
+        "videos": [
+          {
+            "title": "Video 3",
+            "url": "https://www.example.com/video3",
+            "duration": "20:15"
+          }
+        ],
+        "images": [
+          {
+            "title": "Image 3",
+            "url": "https://www.example.com/image3.jpg"
+          }
+        ],
+        "links": [
+          {
+            "title": "Link 3",
+            "url": "https://www.example.com/link3"
+          }
+        ]
+      }
+    ]
+  }
+  
