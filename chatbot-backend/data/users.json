@@ -1,0 +1,35 @@
+[
+  {
+    "email": "atharva@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "rucha@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "priyanka@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "shubham@gmail.com",
+    "password": "12345"
+  },
+  {
+    "email": "tanu@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "admin@example.com",
+    "password": "123"
+  },
+  {
+    "email": "shinchan@gmail.com",
+    "password": "123"
+  },
+  {
+    "fullname": "shubham solanki",
+    "email": "shubham@solanki.com",
+    "password": "123"
+  }
+]
